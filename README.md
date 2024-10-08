@@ -1,6 +1,6 @@
 # Co-Meet
 
-### Live URL: &nbsp; &nbsp; [co-meet.vercel.app](https://co-meet-server.vercel.app/)
+### Live URL: &nbsp; &nbsp; [co-meet.vercel.app](https://co-meet-server-only.vercel.app/)
 
 ## Introduction
 
